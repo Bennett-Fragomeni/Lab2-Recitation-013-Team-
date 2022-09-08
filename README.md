@@ -6,4 +6,4 @@
       John Frederickson / JOFR1815
       Saulo Guzman      / sagu3628
 
-*The best team there is*
+These are changes on MAIN

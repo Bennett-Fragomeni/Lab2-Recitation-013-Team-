@@ -1,7 +1,6 @@
 # Lab2-CSCI3308
 # BY: Contributors 
-      Project Team Members: 
-      Connor
+      Project Team Members: Connor
       Bennett Fragomeni / Bennett-Fragomeni
       Connor Rauscher   / RausConn
       John Frederickson / JOFR1815
